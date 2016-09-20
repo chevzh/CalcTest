@@ -1,0 +1,9 @@
+C:\Users\chesh\Desktop\Calc\TestCalc\bin\Debug\TestCalc.dll
+C:\Users\chesh\Desktop\Calc\TestCalc\bin\Debug\TestCalc.pdb
+C:\Users\chesh\Desktop\Calc\TestCalc\bin\Debug\Calc.exe
+C:\Users\chesh\Desktop\Calc\TestCalc\bin\Debug\nunit.framework.dll
+C:\Users\chesh\Desktop\Calc\TestCalc\bin\Debug\Calc.pdb
+C:\Users\chesh\Desktop\Calc\TestCalc\bin\Debug\nunit.framework.xml
+C:\Users\chesh\Desktop\Calc\TestCalc\obj\Debug\TestCalc.csprojResolveAssemblyReference.cache
+C:\Users\chesh\Desktop\Calc\TestCalc\obj\Debug\TestCalc.dll
+C:\Users\chesh\Desktop\Calc\TestCalc\obj\Debug\TestCalc.pdb
