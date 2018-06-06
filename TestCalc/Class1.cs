@@ -9,6 +9,7 @@ namespace TestCalc
 {
     public class Test
     {
+        //Github test
 
         [Test]
         public void Sum_2Plus5_7Returned()
